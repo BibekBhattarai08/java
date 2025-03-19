@@ -1,0 +1,112 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "bankingapp",
+      "request": "launch",
+      "mainClass": "rebankingapp.bankingapp",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "Randomnumbers",
+      "request": "launch",
+      "mainClass": "Randomnumbers",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "interestcalc",
+      "request": "launch",
+      "mainClass": "interestcalc",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "mis",
+      "request": "launch",
+      "mainClass": "mis",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "loop3",
+      "request": "launch",
+      "mainClass": "loop3",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "loop2",
+      "request": "launch",
+      "mainClass": "loop2",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "random",
+      "request": "launch",
+      "mainClass": "random",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "loop1",
+      "request": "launch",
+      "mainClass": "loop1",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "checkinginp3",
+      "request": "launch",
+      "mainClass": "checkinginp3",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "checkinginp2",
+      "request": "launch",
+      "mainClass": "checkinginp2",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "checkingInput",
+      "request": "launch",
+      "mainClass": "checkingInput",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "sqrt",
+      "request": "launch",
+      "mainClass": "sqrt",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "Rectangle1",
+      "request": "launch",
+      "mainClass": "Rectangle1",
+      "projectName": "midterm practice_6f7f0c84"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Rectangle",
+      "request": "launch",
+      "mainClass": "Rectangle",
+      "projectName": "midterm practice_6f7f0c84"
+    }
+  ]
+}
