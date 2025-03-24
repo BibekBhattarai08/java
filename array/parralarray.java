@@ -1,9 +1,9 @@
 
-//make user to enter number hiw amny array he want 
+//make user to enter number how many  array he does he want  want 
 //store name or values of array
 import java.util.Scanner;
 
-public class array4 {
+public class parralarray {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         System.out.println("enter number of student in class: ");
@@ -35,7 +35,7 @@ public class array4 {
         for (int i = 0; i < std.length; i++) {
             System.out.println(std[i] + " grade is " + grade[i]);
         }
-
+        inp.close();
     }
 
 }

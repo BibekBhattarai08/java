@@ -1,7 +1,8 @@
 import java.util.Scanner;
+//array as field variable
 
 public class array3 {
-    private String arr[];
+    private String arr[] = new String[6];
 
     public static void main(String[] args) {
         array3 self = new array3();

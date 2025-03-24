@@ -21,8 +21,6 @@ public class array2 {
             System.out.println(arr1[i]);
         }
         System.out.println("geometric projection of 2 by last");
-       
-        }
 
     }
 
